@@ -4,7 +4,7 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "Air Force",
+    title: "Gorra",
     price: 119,
     colors: [
       {
@@ -19,7 +19,7 @@ const products = [
   },
   {
     id: 2,
-    title: "Air Jordan",
+    title: "Sudadera",
     price: 149,
     colors: [
       {
@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 3,
-    title: "Blazer",
+    title: "Playera",
     price: 109,
     colors: [
       {
@@ -49,7 +49,7 @@ const products = [
   },
   {
     id: 4,
-    title: "Crater",
+    title: "Pans",
     price: 129,
     colors: [
       {
@@ -64,7 +64,7 @@ const products = [
   },
   {
     id: 5,
-    title: "Hippie",
+    title: "Mochila",
     price: 99,
     colors: [
       {
